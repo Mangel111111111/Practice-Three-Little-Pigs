@@ -1,4 +1,4 @@
-# Practice-Three-Little-Pigs
+# Little Red Riding Hood
 
 ## Description
 This project is a webpage that tells the classic story of Little Red Riding Hood. The site is designed to be both educational and entertaining, allowing users to explore the story in a visually engaging way.
