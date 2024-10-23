@@ -2,3 +2,20 @@ header, h1¨{
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
 }
+p{
+    justify-content: baseline;
+    font-family: 'Courier New', Courier, monospace;
+}
+footer{
+    text-align: center;
+}
+body{
+    background-color: antiquewhite;
+}
+.coverImg{
+    width: 500px;
+    border-radius: 50%;
+}
+.cover{
+    text-align: center;
+}
