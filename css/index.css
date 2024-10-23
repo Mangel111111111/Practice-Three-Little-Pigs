@@ -19,3 +19,23 @@ body{
 .cover{
     text-align: center;
 }
+.wolfImg{
+    width: 250px;
+    border-radius: 50%;
+}
+.wolf{
+    text-align: center;
+}
+.grannyImg{
+    width: 250px;
+    border-radius: 50%;
+}
+.granny{
+    text-align: center;
+}.confrontationImg{
+    width: 250px;
+    border-radius: 50%;
+}
+.confrontation{
+    text-align: center;
+}
